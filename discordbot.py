@@ -21,7 +21,7 @@ user_dict = {}
 bot = commands.Bot(command_prefix="!", intents = discord.Intents.all())
 points = {}
 admin_ids = [1117808934011555855, 1119864305895084052, 1122291140515872808, 819436785998102548, 887622983852642314, 1080459282044166184, 1066271383744696400] #1066271383744696400 : james
-TOKEN = 'MTEzMDEzNjU1NzAzOTQwMzAwOQ.GRDiTm.M_0KLVXcCTPgJJLM48Az4TTRDL_es5HYXYJjjQ'
+TOKEN = ''
 bot_cmd_channel = 1130128084562096260
 bc_edit_log_channel = 1130128211141988362
 account_error_chanel = 1130128244289585272
@@ -794,4 +794,5 @@ async def on_message(message):
         print(e)
         print("===================================================================================")
 if __name__ == "__main__":
-    bot.run(TOKEN)
+access_tocken-os.environ"["BOT_TOCKEN"]
+    bot.run(access_tocken)
