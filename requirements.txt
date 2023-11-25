@@ -1,1 +1,14 @@
 discord.py==0.16.12
+json.py==0.16.12
+time.py==0.16.12
+yaml.py==0.16.12
+string.py==0.16.12
+io.py==0.16.12
+os.py==0.16.12
+zlib.py==0.16.12
+urllib.parse.py==0.16.12
+http.client.py==0.16.12
+BCSFE_Python.py==0.16.12
+
+
+
